@@ -1,1 +1,1 @@
-Domain forward for my resume page.
+Domain forwarding my resume page.
